@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetodoMuller", "MetodoMuller\MetodoMuller.vcxproj", "{3598FA43-ACA5-46AD-82D8-D836A531534C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Debug|x64.ActiveCfg = Debug|x64
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Debug|x64.Build.0 = Debug|x64
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Debug|x86.ActiveCfg = Debug|Win32
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Debug|x86.Build.0 = Debug|Win32
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Release|x64.ActiveCfg = Release|x64
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Release|x64.Build.0 = Release|x64
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Release|x86.ActiveCfg = Release|Win32
+		{3598FA43-ACA5-46AD-82D8-D836A531534C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37922A2D-CC47-4EE8-8D80-4AC6B44AF5F7}
+	EndGlobalSection
+EndGlobal
